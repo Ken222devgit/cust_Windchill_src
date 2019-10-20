@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/lib/endorsed/webservices-api.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/srclib/tool/Annotations.jar!/" />
+    <libelement value="file://D:/ptc/Windchill_11.1/Windchill/codebase" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/lib/mpml.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/lib/pdml.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/lib/pjl.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/lib/reql.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/lib/servlet.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/lib/suma.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/lib/wnc.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/CounterPartWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/Gantt.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/GanttExplorer.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/ProjectManagement.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/RMWebServices.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/TwxIEWebService.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/dpimplWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/dpinfraWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/ie3rdpartylibs.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/ieWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/install.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/jmxcoreWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/jviews-chart-all.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/jviews-framework-all.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/jviews-gantt-all.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/mksapi.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/mpmlWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/mylyn-integration.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/odataWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/pdmlWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/pjlWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/prowtWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/ptlcWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/reqlWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/restWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/rialtoWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/sumaWeb.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/wc3rdpartylibs.jar!/" />
+    <libelement value="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/wncWeb.jar!/" />
+    <varelement var="file://D:/ptc/Windchill_11.1/Windchill/src" kind="linksrc:" value="src" />
+    <varelement var="file://D:/ptc/Windchill_11.1/Windchill/src_gen" kind="linksrc:" value="src_gen" />
+    <src_description expected_position="2">
+      <src_folder value="file://D:/ptc/Windchill_11.1/Windchill/src" expected_position="2" />
+      <src_folder value="file://D:/ptc/Windchill_11.1/Windchill/src_gen" expected_position="3" />
+      <src_folder value="GROOVY_DSL_SUPPORT" expected_position="42" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://D:/ptc/Windchill_11.1/Windchill/src">
+      <sourceFolder url="file://D:/ptc/Windchill_11.1/Windchill/src" isTestSource="false" />
+    </content>
+    <content url="file://D:/ptc/Windchill_11.1/Windchill/src_gen">
+      <sourceFolder url="file://D:/ptc/Windchill_11.1/Windchill/src_gen" isTestSource="false" />
+    </content>
+    <orderEntry type="module-library">
+      <library name="webservices-api.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/lib/endorsed/webservices-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Annotations.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/srclib/tool/Annotations.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="codebase">
+        <CLASSES>
+          <root url="file://D:/ptc/Windchill_11.1/Windchill/codebase" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mpml.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/lib/mpml.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pdml.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/lib/pdml.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pjl.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/lib/pjl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="reql.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/lib/reql.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlet.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/lib/servlet.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="suma.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/lib/suma.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wnc.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/lib/wnc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="CounterPartWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/CounterPartWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gantt.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/Gantt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="GanttExplorer.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/GanttExplorer.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ProjectManagement.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/ProjectManagement.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="RMWebServices.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/RMWebServices.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="TwxIEWebService.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/TwxIEWebService.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dpimplWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/dpimplWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dpinfraWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/dpinfraWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ie3rdpartylibs.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/ie3rdpartylibs.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ieWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/ieWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="install.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/install.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jmxcoreWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/jmxcoreWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jviews-chart-all.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/jviews-chart-all.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jviews-framework-all.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/jviews-framework-all.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jviews-gantt-all.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/jviews-gantt-all.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mksapi.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/mksapi.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mpmlWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/mpmlWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mylyn-integration.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/mylyn-integration.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="odataWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/odataWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pdmlWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/pdmlWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pjlWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/pjlWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="prowtWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/prowtWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ptlcWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/ptlcWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="reqlWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/reqlWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="restWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/restWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rialtoWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/rialtoWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sumaWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/sumaWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wc3rdpartylibs.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/wc3rdpartylibs.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wncWeb.jar">
+        <CLASSES>
+          <root url="jar://D:/ptc/Windchill_11.1/Windchill/codebase/WEB-INF/lib/wncWeb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

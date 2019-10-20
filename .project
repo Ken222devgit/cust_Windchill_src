@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<projectDescription>
+  <name>cust_Windchill_src</name>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+    <buildCommand>
+      <name>de.loskutov.FileSync.FSBuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+    <nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+  </natures>
+  <linkedResources>
+    <link>
+      <name>codebase</name>
+      <type>2</type>
+      <location>D:/ptc/Windchill_11.1/Windchill/eclipse_codebase</location>
+    </link>
+    <link>
+      <name>src</name>
+      <type>2</type>
+      <location>D:/ptc/Windchill_11.1/Windchill/src</location>
+    </link>
+    <link>
+      <name>src_gen</name>
+      <type>2</type>
+      <location>D:/ptc/Windchill_11.1/Windchill/src_gen</location>
+    </link>
+  </linkedResources>
+</projectDescription>
